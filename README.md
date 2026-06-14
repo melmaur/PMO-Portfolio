@@ -61,3 +61,16 @@ Repository:
 
 Screenshot:
 ![Project 3](images/project3.png)
+
+
+## Skills Demonstrated in each Project
+
+|        Skill          | Project 1 | Project 2   | Project 3 |
+|-----------------------|-----------|-------------|-----------|
+|     PMO Reporting     |    ✓      |    x        |    ✓      |
+|     RAID Management   |    ✓      |    x        |     x     |
+|     Process Mapping   |     x     |    ✓        |     x     |
+| Requirements Analysis |     x     |    ✓        |     x     |
+|     Data Analysis     |     ✓     |    x        |     ✓     |
+|     KPI Design        |     ✓     |    x        |     ✓     |
+| Dashboard Development |     ✓     |    x        |     ✓     |
