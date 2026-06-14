@@ -28,8 +28,8 @@ Repository:
 [PMO Dashboard](https://github.com/melmaur/PMO-Project-Dashboard)
 
 Screenshot:
-![Project 1 Dashboard] images/Dashboard_V4.png)
-![Gantt and pie charts](images/Dashboard_V2.png) 
+![Project 1 Dashboard] (PMO-Project-Dashboard.gitimages/Dashboard_V4.png)
+![Gantt and pie charts](https://github.com/melmaur/PMO-Project-Dashboard.gitimages/Dashboard_V2.png) 
 
 ---
 
