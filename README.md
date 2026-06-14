@@ -27,9 +27,9 @@ Key Topics:
 Link to Repository:
 [PMO Dashboard](https://github.com/melmaur/PMO-Project-Dashboard)
 
-Screenshot:
+Screenshots:
 
-![Project 1 Dashboard] (images/Dashboard_V4.png)
+![Project 1 Dashboard] (images/Dashboard_V3.png)
 
 ![Gantt and pie charts] (images/Dashboard_V2.png) 
 
