@@ -28,7 +28,7 @@ Repository:
 [PMO Dashboard](https://github.com/melmaur/PMO-Project-Dashboard)
 
 Screenshot:
-![Project 1](images/Dashboard_V4.png)
+![Project 1](images/Dashboard_V2.png, images/Dashboard_V4.png)
 
 ---
 
