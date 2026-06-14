@@ -24,13 +24,14 @@ Key Topics:
 - Gantt Charts
 - Project Governance
 
-Repository:
+Link to Repository:
 [PMO Dashboard](https://github.com/melmaur/PMO-Project-Dashboard)
 
 Screenshot:
+
 ![Project 1 Dashboard] (images/Dashboard_V4.png)
 
-[Gantt and pie charts](images/Dashboard_V2.png) 
+[Gantt and pie charts] (images/Dashboard_V2.png) 
 
 ---
 
@@ -42,7 +43,7 @@ Key Topics:
 - Requirements Gathering
 - Continuous Improvement
 
-Repository:
+Repository here:
 [Process Improvement](https://github.com/melmaur/Community-Library-Process-Improvement.git)
 
 Screenshot:
