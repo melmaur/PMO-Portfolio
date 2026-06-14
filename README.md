@@ -25,7 +25,7 @@ Key Topics:
 - Project Governance
 
 Repository:
-[PMO Dashboard](PMO-Project-Dashboard)
+[PMO Dashboard](https://github.com/melmaur/PMO-Project-Dashboard)
 
 Screenshot:
 ![Project 1](images/Dashboard_V4.png)
