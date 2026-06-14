@@ -29,9 +29,9 @@ Link to Repository:
 
 Screenshots:
 
-![Project 1 Dashboard] (images/Dashboard_V3.png)
+![Project 1 Dashboard](images/Dashboard_V3.png)
 
-![Gantt and pie charts] (images/Dashboard_V2.png) 
+![Gantt and pie charts](images/Dashboard_V2.png) 
 
 ---
 
