@@ -31,7 +31,7 @@ Screenshot:
 
 ![Project 1 Dashboard] (images/Dashboard_V4.png)
 
-[Gantt and pie charts] (images/Dashboard_V2.png) 
+![Gantt and pie charts] (images/Dashboard_V2.png) 
 
 ---
 
